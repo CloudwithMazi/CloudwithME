@@ -1,7 +1,7 @@
 # CloudwithME
 # Hello World! I'm Mfon Etuk 🌍 
 
-I'm a **Security Ethusiant, an Advocate for Cloud Solutions and Effiecient Architecutre Design** who loves turning big ideas into reality with clean, scalable code.
+I'm a **Security Enthusiast** and **Cloud Solutions Advocate**, dedicated to designing **efficient architectures** that bring big ideas to life through **clean, scalable code**.
 
 ![AWS Badge](https://img.shields.io/badge/AWS-Expert-orange)
 ![Security Badge](https://img.shields.io/badge/Security-Enthusiast-blue)
