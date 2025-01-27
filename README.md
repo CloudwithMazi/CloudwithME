@@ -27,7 +27,7 @@ I'm a **Security Enthusiast** and **Cloud Solutions Advocate**, dedicated to des
 - [Solution Architecture Showcase](https://github.com/your-username/solution-architecture-showcase)  
   *Example microservices architecture for a scalable application.*
 
-- [Collaboration & Mentoriship Showcase](https://github.com/your-username/solution-architecture-showcase)  
+- [Collaboration & Mentoriship Showcase](https://github.com/CloudwithMazi/EandMCollabSite)  
   *Showcasing my collaboration mentorship with projects within the cloud, and security space.*
 
 ## Contact
