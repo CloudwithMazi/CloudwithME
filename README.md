@@ -27,6 +27,9 @@ I'm a **Security Enthusiast** and **Cloud Solutions Advocate**, dedicated to des
 - [Solution Architecture Showcase](https://github.com/your-username/solution-architecture-showcase)  
   *Example microservices architecture for a scalable application.*
 
+- [Collaboration & Mentoriship Showcase](https://github.com/your-username/solution-architecture-showcase)  
+  *Showcasing my collaboration mentorship with projects within the cloud, and security space.*
+
 ## Contact
 - [LinkedIn](www.linkedin.com/in/mfon-etuk-8a9068b1)
 - Email: Please Request on Linkedin 
