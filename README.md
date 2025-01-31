@@ -18,20 +18,14 @@ I'm a **Security Enthusiast** and **Cloud Solutions Advocate**, dedicated to des
 - 🔒 Advocate for security best practices
 
 ## Highlighted Projects
-- [Cloud Infrastructure Demo](https://github.com/your-username/cloud-infra-demo)  
-  *A quick dive into AWS infrastructure setup with Terraform.*
+- [AWS 3 Tier Application Demo](https://github.com/CloudwithMazi/aws-3-tier-app)  
+  *A quick dive into setting up a 3 tier web app portfolio.*
 
-- [Security Best Practices](https://github.com/your-username/security-best-practices)  
-  *Code samples and guidelines to keep apps secure from the start.*
-
-- [Solution Architecture Showcase](https://github.com/your-username/solution-architecture-showcase)  
-  *Example microservices architecture for a scalable application.*
-
-- [Collaboration & Mentoriship Showcase](https://github.com/CloudwithMazi/EandMCollabSite)  
-  *Showcasing my collaboration mentorship with projects within the cloud, and security space.*
+## Mentorship and Collaboration Projects
+- [Ekaette Umoh's First Static Website with Terraform & S3](https://github.com/CloudwithMazi/EandMCollabSite/tree/main/StaticWebTF) 
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/mfon-etuk-8a9068b1)
+- [LinkedIn](https://www.linkedin.com/in/mfon-etuk-8a9068b1)
 - Email: Please Request on Linkedin 
 
 ---
