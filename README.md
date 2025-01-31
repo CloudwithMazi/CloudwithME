@@ -1,5 +1,5 @@
 # CloudwithME
-# Hello World! I'm Mfon Etuk 🌍 
+# Whats up World! I'm Mfon Etuk 🌍 
 
 I'm a **Security Enthusiast** and **Cloud Solutions Advocate**, dedicated to designing **efficient architectures** that bring big ideas to life through **clean, scalable code**.
 
