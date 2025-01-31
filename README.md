@@ -23,7 +23,7 @@ I'm a **Security Enthusiast** and **Cloud Solutions Advocate**, dedicated to des
 
 ## Mentorship and Collaboration Projects
 - [Ekaette Umoh's First Static Website with Terraform & S3](https://github.com/CloudwithMazi/EandMCollabSite/tree/main/StaticWebTF)
-  *Static website with terraform and S3? We got it!* 
+           *Static website with terraform and S3? We got it!* 
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/mfon-etuk-8a9068b1)
