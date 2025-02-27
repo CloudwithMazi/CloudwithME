@@ -18,6 +18,10 @@ I'm a **Security Enthusiast** and **Cloud Solutions Advocate**, dedicated to des
 - 🔒 Advocate for security best practices
 
 ## Highlighted Projects
+- [AWS Risk Assessor - Cloud Security Posture Management Tool](https://github.com/CloudwithMazi/CSPM-Tool)
+
+  *Continuously assessing your AWS cloud environment against security benchmarks.*
+  
 - [AWS 3 Tier Application Demo](https://github.com/CloudwithMazi/aws-3-tier-app)  
   *A quick dive into setting up a 3 tier web app portfolio.*
 
